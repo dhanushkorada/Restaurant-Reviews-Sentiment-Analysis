@@ -17,7 +17,7 @@ Sentiment analysis is a common task in NLP, aiming to determine the sentiment ex
 
 ## Project Structure
 
-- `sentiment_analysis.py`: Python script containing the code for data preprocessing, model training, and evaluation.
+- `bag_words_model.ipynb`: Python script containing the code for data preprocessing, model training, and evaluation.
 - `Restaurant_Reviews.tsv`: Dataset containing restaurant reviews and their corresponding sentiment labels.
 - `README.md1`: Project documentation.
 
